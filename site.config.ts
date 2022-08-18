@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Jean Olmedillo Portfolio',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'jmofuture.com',
   author: 'Jean Olmedillo',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Portfolio de Jean Olmedillo, Data Analyst, donde se puede encontrar Tablero de Power Bi, Tableau, Excel, Power Query, SQL y herramientas de análisis de datos.',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
