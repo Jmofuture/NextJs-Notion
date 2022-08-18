@@ -18,8 +18,8 @@ export default siteConfig({
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  github: 'https://github.com/Jmofuture',
-  linkedin: 'https://www.linkedin.com/in/jeanolmedillo/',
+  github: 'Jmofuture',
+  linkedin: 'jeanolmedillo/',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
